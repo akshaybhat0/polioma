@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Portfolio Website
 
 A modern portfolio website built with React, Vite, and Framer Motion.
@@ -24,3 +25,6 @@ A modern portfolio website built with React, Vite, and Framer Motion.
 
 * Built with React, Vite, and Framer Motion
 * Particle background by tsparticles
+=======
+# polioma
+>>>>>>> f92eaec87d654b5103741450145112513f18491e
