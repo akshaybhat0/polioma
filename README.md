@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Portfolio Website
 
 A modern portfolio website built with React, Vite, and Framer Motion.
@@ -12,7 +11,7 @@ A modern portfolio website built with React, Vite, and Framer Motion.
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/portfolio.git`
+1. Clone the repository: `git clone https://github.com/akshaybhat0/polioma.git`
 2. Install dependencies: `npm install`
 3. Start the development server: `npm run dev`
 
@@ -25,6 +24,3 @@ A modern portfolio website built with React, Vite, and Framer Motion.
 
 * Built with React, Vite, and Framer Motion
 * Particle background by tsparticles
-=======
-# polioma
->>>>>>> f92eaec87d654b5103741450145112513f18491e
